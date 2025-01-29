@@ -1,6 +1,6 @@
 # popclip_extensions
 
-Some extensions / snippets for PopClip macOS app (Genius, AZLyrics, YouTube Music, Allegro, Tekstowo)
+Some extensions / snippets for PopClip macOS app that are missing from the official PopClip extensions directory (Genius, AZLyrics, YouTube Music, Allegro, Tekstowo)
 
 ## List of extensions / snippets
 
