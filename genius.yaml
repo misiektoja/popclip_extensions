@@ -1,0 +1,7 @@
+# popclip
+name: Genius
+icon: square GL
+javascript: |
+  const term = popclip.input.text.trim().split(/\s+/).join(' ')
+  popclip.openUrl('https://genius.com/search?q=' + encodeURIComponent(term))
+  
