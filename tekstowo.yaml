@@ -1,0 +1,6 @@
+# popclip
+name: Tekstowo
+icon: square TE
+javascript: |
+  const term = popclip.input.text.trim().split(/\s+/).join(' ')
+  popclip.openUrl('https://www.tekstowo.pl/szukaj,' + encodeURIComponent(term) + '.html')
