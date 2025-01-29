@@ -1,0 +1,6 @@
+# popclip
+name: Allegro
+icon: square AL
+javascript: |
+  const term = popclip.input.text.trim().split(/\s+/).join(' ')
+  popclip.openUrl('https://allegro.pl/listing?string=' + encodeURIComponent(term))
