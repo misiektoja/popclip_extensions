@@ -12,7 +12,7 @@ Some extensions / snippets for PopClip macOS app that are missing from the offic
 
 ## Requirements
 
-The snippets require PopClip app for macOS [PopClip](https://www.popclip.app)
+The snippets require [PopClip](https://www.popclip.app) app for macOS 
 
 ## Installation
 
