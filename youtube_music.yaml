@@ -1,0 +1,7 @@
+# popclip
+name: YouTube Music
+icon: square YM
+javascript: |
+  const term = popclip.input.text.trim().split(/\s+/).join(' ')
+  popclip.openUrl('https://music.youtube.com/search?q=' + encodeURIComponent(term))
+  
