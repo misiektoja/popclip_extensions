@@ -1,6 +1,6 @@
 # popclip_extensions
 
-Some extensions / snippets for PopClip macOS app that are missing from the official PopClip extensions directory (Genius, AZLyrics, YouTube Music, Allegro, Tekstowo)
+Some extensions / snippets for PopClip macOS app that are missing from the official PopClip extensions directory (Genius, AZLyrics, YouTube Music, Allegro, Tekstowo, Musixmatch)
 
 ## List of extensions / snippets
 
@@ -9,6 +9,7 @@ Some extensions / snippets for PopClip macOS app that are missing from the offic
 - **[youtube_music.yaml](youtube_music.yaml)**:  search for music on YouTube Music
 - **[allegro.yaml](allegro.yaml)**: search for products on Allegro (polish Amazon)
 - **[tekstowo.yaml](tekstowo.yaml)**: search for lyrics on Tekstowo
+- **[musixmatch.yaml](musixmatch.yaml)**: search for lyrics on Musixmatch
 
 ## Requirements
 
