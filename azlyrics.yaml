@@ -3,4 +3,4 @@ name: AZLyrics
 icon: square AZ
 javascript: |
   const term = popclip.input.text.trim().split(/\s+/).join(' ')
-  popclip.openUrl('https://search.azlyrics.com/search.php?q=' + encodeURIComponent(term))
+  popclip.openUrl('https://www.azlyrics.com/search/?q=' + encodeURIComponent(term))
