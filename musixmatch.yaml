@@ -1,0 +1,6 @@
+# popclip
+name: Musixmatch
+icon: square MM
+javascript: |
+  const term = popclip.input.text.trim().split(/\s+/).join(' ')
+  popclip.openUrl('https://www.musixmatch.com/search?query=' + encodeURIComponent(term))
